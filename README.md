@@ -1,2 +1,2 @@
 # fed_predictor
-An AI app that predicts Fed interest rate decisions
+An AI app that estimates Fed interest rate decisions
